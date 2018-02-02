@@ -1,0 +1,5 @@
+exported / unexported
+    - visible / invisible
+    - capitalization
+        + capitalize: exported, visible outside package
+        + lowercase: unexported, not visible outside the package
