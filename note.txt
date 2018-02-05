@@ -3,3 +3,12 @@ exported / unexported
     - capitalization
         + capitalize: exported, visible outside package
         + lowercase: unexported, not visible outside the package
+
+Neu khai bao kieu du lieu la int thi neu khong initialize gia tri default se 0
+
+scope:
++ levels of scope
+  + universe
+  + package
+  + file
+  + block (curly braces)
